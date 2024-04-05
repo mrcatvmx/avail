@@ -18,7 +18,7 @@ Cipher_Airdrop aims to assist individuals without coding or Linux expertise. Fol
 🌟NODE GUIDE🌟<br>
 Step 1: Connect to Your VPS
 
-Step 2: Clone the Script<br>
+Step 2: Stop the Node<br>
 <p>Press Ctrl+C to close the or stoppped the ongoing Node</p>
 
 Step 3: Run the Script<br>
